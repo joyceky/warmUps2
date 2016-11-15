@@ -1,0 +1,29 @@
+div {
+    display: block;
+}
+
+#pageFooter {
+  background-color: #414042;
+  width: 100vw;
+}
+
+#pagefooter .footerinner {
+    max-width: 1110px;
+    margin: auto;
+}
+
+#pagefooter .footerleftcol {
+    float: left;
+    width: 30%;
+}
+
+
+#pagefooter .footerrightcol {
+    float: left;
+    width: 70%;
+}
+
+.clear {
+    clear: both;
+    line-height: 0;
+}
